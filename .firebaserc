@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "minibook-2b918",
-    "hosting": "minibook-2b918"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "mini--book"
+  }
 }

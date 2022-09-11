@@ -13,5 +13,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MINIBOOK_2B918 }}'
-          projectId: minibook-2b918
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MINI__BOOK }}'
+          projectId: mini--book
