@@ -909,6 +909,11 @@ hr {
     font-weight: 600;
   }
 
+  .slideshow-container,
+  .mySlides img {
+    height: 70vh;
+  }
+
   /*Home end*/
 
   /*Summaries*/
