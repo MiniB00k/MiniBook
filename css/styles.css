@@ -589,6 +589,10 @@ hr {
   margin-right: 30px;
 }
 
+.Fline2 a {
+  color: #eae7dc;
+}
+
 .footer hr {
   display: none;
   border-color: #8e8d8a;
